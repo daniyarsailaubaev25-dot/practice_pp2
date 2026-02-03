@@ -1,1 +1,0 @@
-print("KOTAK IS gooood")
